@@ -7,8 +7,9 @@
     /* padding for whole body */
     body {
       background-color: #344FA1;
-        padding: 15px;
+      /*ding: 15px; */
         color: white;
+        margin: 0;
     }
     /* Nav Bar  */
     nav {
@@ -79,6 +80,9 @@ text-align: left;
       position: relative;
     width: 100%;
     height: 400px;
+   
+    margin: 0;
+    padding: 0;
     }
     .thumbnail:hover {
         position:relative;
@@ -130,6 +134,7 @@ text-align: left;
     }
 #work{
   padding-bottom: 80px;
+  
 }
 
     /* content decoration */
