@@ -46,7 +46,7 @@ nav li:hover {
         margin: auto;
     }
 
-}
+
 header{
 text-align: left;
 }
@@ -72,7 +72,8 @@ text-align: left;
         -webkit-box-orient: vertical;
         -webkit-line-clamp: 4;
         overflow: hidden;
-        padding: 50px;
+        padding: 20px;
+        font-size: 25px;
 
     }
 
